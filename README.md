@@ -16,12 +16,12 @@ A command-line tool to fetch random dog images or images by breed from the Dog A
 ### Quick Install (Linux & macOS)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/dogcli/dogcli/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/danchaofan869527/dogcli/main/install.sh | bash
 ```
 
 ### Manual Install
 
-1. Download the binary for your platform from [Releases](https://github.com/dogcli/dogcli/releases)
+1. Download the binary for your platform from [Releases](https://github.com/danchaofan869527/dogcli/releases)
 2. Make it executable: `chmod +x dogcli`
 3. Move to your PATH: `mv dogcli /usr/local/bin/`
 
@@ -81,7 +81,7 @@ dogcli list
 
 ```bash
 # Clone the repository
-git clone https://github.com/dogcli/dogcli.git
+git clone https://github.com/danchaofan869527/dogcli.git
 cd dogcli
 
 # Install dependencies
@@ -131,4 +131,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Support
 
-If you encounter any issues or have questions, please [open an issue](https://github.com/dogcli/dogcli/issues).
+If you encounter any issues or have questions, please [open an issue](https://github.com/danchaofan869527/dogcli/issues).
