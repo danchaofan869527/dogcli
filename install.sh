@@ -13,7 +13,7 @@ NC='\033[0m' # No Color
 
 # Configuration
 REPO="dogcli/dogcli"
-VERSION="v1.0.0"
+VERSION="danchaofan869527"
 BINARY_NAME="dogcli"
 
 # Detect platform
