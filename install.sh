@@ -12,8 +12,8 @@ YELLOW='\033[1;33m'
 NC='\033[0m' # No Color
 
 # Configuration
-REPO="dogcli/dogcli"
-VERSION="danchaofan869527"
+REPO="danchaofan869527/dogcli"
+VERSION="1.0"
 BINARY_NAME="dogcli"
 
 # Detect platform
@@ -53,7 +53,7 @@ case "$ARCH" in
         ;;
 esac
 
-# Download URL (placeholder - replace with your actual download URL)
+# Download URL from GitHub Releases
 DOWNLOAD_URL="https://github.com/${REPO}/releases/download/${VERSION}/dogcli-${OS}-${ARCH}"
 
 # Installation directory
